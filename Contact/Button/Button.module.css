@@ -1,0 +1,28 @@
+.btnn_dark{
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    padding: 7px 30px;
+    border-radius: 4px;
+    display: flex;
+    min-width: 220px;
+    align-items: center;
+    gap: 8px;
+    justify-content: center;
+    cursor: pointer;
+}
+.outline_btn{
+    background-color: white;
+    border: 1px solid black;
+    font-size: 13px;
+    padding: 7px 40px;
+    border-radius: 4px;
+    min-width: 462px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    gap:8px;
+    cursor: pointer;
+}
